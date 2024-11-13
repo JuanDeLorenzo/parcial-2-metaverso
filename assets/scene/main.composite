@@ -349,16 +349,16 @@
               "y": 1.25,
               "z": 19
             },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
             },
             "parent": 0
           }
@@ -509,6 +509,111 @@
             },
             "parent": 0
           }
+        },
+        "536": {
+          "json": {
+            "position": {
+              "x": -72.25,
+              "y": 9.998172760009766,
+              "z": 75.50260925292969
+            },
+            "rotation": {
+              "x": -3.8859062634344355e-9,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 2,
+              "y": 2,
+              "z": 1200
+            },
+            "parent": 516
+          }
+        },
+        "537": {
+          "json": {
+            "position": {
+              "x": -151.5,
+              "y": 11.5,
+              "z": 88.75
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 2,
+              "y": 2,
+              "z": 2
+            },
+            "parent": 0
+          }
+        },
+        "538": {
+          "json": {
+            "position": {
+              "x": -137.25,
+              "y": 7.25,
+              "z": -59.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.6427876353263855,
+              "z": 0,
+              "w": 0.7660444378852844
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
+        "539": {
+          "json": {
+            "position": {
+              "x": -244.75,
+              "y": 12,
+              "z": -18.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 2,
+              "y": 2,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
+        "540": {
+          "json": {
+            "position": {
+              "x": -53.25,
+              "y": 7.25,
+              "z": -52.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 6.123234262925839e-17
+            },
+            "scale": {
+              "x": 2,
+              "y": 2,
+              "z": 1
+            },
+            "parent": 0
+          }
         }
       }
     },
@@ -593,6 +698,36 @@
           "json": {
             "networkId": 0,
             "entityId": 3337
+          }
+        },
+        "536": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3338
+          }
+        },
+        "537": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3339
+          }
+        },
+        "538": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3340
+          }
+        },
+        "539": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3341
+          }
+        },
+        "540": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3342
           }
         }
       }
@@ -743,6 +878,234 @@
       }
     },
     {
+      "name": "core::Material",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBMaterial"
+      },
+      "data": {
+        "536": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "videoTexture",
+                    "videoTexture": {
+                      "videoPlayerEntity": 0
+                    }
+                  }
+                },
+                "metallic": 0,
+                "roughness": 1,
+                "specularIntensity": 0
+              }
+            }
+          }
+        },
+        "537": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "videoTexture",
+                    "videoTexture": {
+                      "videoPlayerEntity": 0
+                    }
+                  }
+                },
+                "metallic": 0,
+                "roughness": 1,
+                "specularIntensity": 0
+              }
+            }
+          }
+        },
+        "538": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "videoTexture",
+                    "videoTexture": {
+                      "videoPlayerEntity": 0
+                    }
+                  }
+                },
+                "metallic": 0,
+                "roughness": 1,
+                "specularIntensity": 0
+              }
+            }
+          }
+        },
+        "539": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "videoTexture",
+                    "videoTexture": {
+                      "videoPlayerEntity": 0
+                    }
+                  }
+                },
+                "metallic": 0,
+                "roughness": 1,
+                "specularIntensity": 0
+              }
+            }
+          }
+        },
+        "540": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "videoTexture",
+                    "videoTexture": {
+                      "videoPlayerEntity": 0
+                    }
+                  }
+                },
+                "metallic": 0,
+                "roughness": 1,
+                "specularIntensity": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "core::MeshCollider",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBMeshCollider"
+      },
+      "data": {
+        "536": {
+          "json": {
+            "collisionMask": 1,
+            "mesh": {
+              "$case": "plane",
+              "plane": {}
+            }
+          }
+        },
+        "537": {
+          "json": {
+            "collisionMask": 1,
+            "mesh": {
+              "$case": "plane",
+              "plane": {}
+            }
+          }
+        },
+        "538": {
+          "json": {
+            "collisionMask": 1,
+            "mesh": {
+              "$case": "plane",
+              "plane": {}
+            }
+          }
+        },
+        "539": {
+          "json": {
+            "collisionMask": 1,
+            "mesh": {
+              "$case": "plane",
+              "plane": {}
+            }
+          }
+        },
+        "540": {
+          "json": {
+            "collisionMask": 1,
+            "mesh": {
+              "$case": "plane",
+              "plane": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "core::MeshRenderer",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBMeshRenderer"
+      },
+      "data": {
+        "536": {
+          "json": {
+            "mesh": {
+              "$case": "plane",
+              "plane": {
+                "uvs": []
+              }
+            }
+          }
+        },
+        "537": {
+          "json": {
+            "mesh": {
+              "$case": "plane",
+              "plane": {
+                "uvs": []
+              }
+            }
+          }
+        },
+        "538": {
+          "json": {
+            "mesh": {
+              "$case": "plane",
+              "plane": {
+                "uvs": []
+              }
+            }
+          }
+        },
+        "539": {
+          "json": {
+            "mesh": {
+              "$case": "plane",
+              "plane": {
+                "uvs": []
+              }
+            }
+          }
+        },
+        "540": {
+          "json": {
+            "mesh": {
+              "$case": "plane",
+              "plane": {
+                "uvs": []
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "name": "core-schema::Name",
       "jsonSchema": {
         "type": "object",
@@ -854,6 +1217,31 @@
           "json": {
             "value": "Text"
           }
+        },
+        "536": {
+          "json": {
+            "value": "Video Player"
+          }
+        },
+        "537": {
+          "json": {
+            "value": "Video Player_1"
+          }
+        },
+        "538": {
+          "json": {
+            "value": "Video Player_2"
+          }
+        },
+        "539": {
+          "json": {
+            "value": "Video Player_3"
+          }
+        },
+        "540": {
+          "json": {
+            "value": "Video Player_4"
+          }
         }
       }
     },
@@ -934,6 +1322,81 @@
                 "eventInfo": {
                   "button": 1,
                   "hoverText": "Press",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "536": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 2,
+                  "hoverText": "Play Video",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "537": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 2,
+                  "hoverText": "Play Video",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "538": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 2,
+                  "hoverText": "Play Video",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "539": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 2,
+                  "hoverText": "Play Video",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "540": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 2,
+                  "hoverText": "Play Video",
                   "maxDistance": 10,
                   "showFeedback": true
                 }
@@ -1045,6 +1508,41 @@
             "componentIds": [
               1030,
               1081
+            ]
+          }
+        },
+        "536": {
+          "json": {
+            "componentIds": [
+              1043
+            ]
+          }
+        },
+        "537": {
+          "json": {
+            "componentIds": [
+              1043
+            ]
+          }
+        },
+        "538": {
+          "json": {
+            "componentIds": [
+              1043
+            ]
+          }
+        },
+        "539": {
+          "json": {
+            "componentIds": [
+              1043
+            ]
+          }
+        },
+        "540": {
+          "json": {
+            "componentIds": [
+              1043
             ]
           }
         }
@@ -1250,6 +1748,56 @@
       }
     },
     {
+      "name": "core::VideoPlayer",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBVideoPlayer"
+      },
+      "data": {
+        "536": {
+          "json": {
+            "src": "https://www.youtube.com/watch?v=lQWDozbbYzc",
+            "playing": true,
+            "volume": 1,
+            "loop": true
+          }
+        },
+        "537": {
+          "json": {
+            "src": "https://www.youtube.com/watch?v=LM0Jgc0MiK0",
+            "playing": true,
+            "volume": 1
+          }
+        },
+        "538": {
+          "json": {
+            "src": "https://www.youtube.com/watch?v=VupspyQYYdY",
+            "playing": true,
+            "volume": 1,
+            "loop": true
+          }
+        },
+        "539": {
+          "json": {
+            "src": "https://www.youtube.com/watch?v=5exTFQvNtD0&t=10s",
+            "playing": true,
+            "volume": 1,
+            "loop": true
+          }
+        },
+        "540": {
+          "json": {
+            "src": "https://www.youtube.com/watch?v=sI4JRp4QwPc",
+            "playing": true,
+            "volume": 1,
+            "loop": true
+          }
+        }
+      }
+    },
+    {
       "name": "inspector::Selection",
       "jsonSchema": {
         "type": "object",
@@ -1262,7 +1810,7 @@
         "serializationType": "map"
       },
       "data": {
-        "535": {
+        "524": {
           "json": {
             "gizmo": 0
           }
@@ -3226,7 +3774,11 @@
                   512,
                   527,
                   531,
-                  535
+                  535,
+                  537,
+                  538,
+                  539,
+                  540
                 ]
               },
               {
@@ -3247,6 +3799,7 @@
               },
               {
                 "entity": 513,
+                "open": true,
                 "children": []
               },
               {
@@ -3262,7 +3815,8 @@
                 "open": true,
                 "children": [
                   513,
-                  514
+                  514,
+                  536
                 ]
               },
               {
@@ -3334,6 +3888,26 @@
               },
               {
                 "entity": 535,
+                "children": []
+              },
+              {
+                "entity": 536,
+                "children": []
+              },
+              {
+                "entity": 537,
+                "children": []
+              },
+              {
+                "entity": 538,
+                "children": []
+              },
+              {
+                "entity": 539,
+                "children": []
+              },
+              {
+                "entity": 540,
                 "children": []
               }
             ]
@@ -3881,6 +4455,181 @@
               }
             ]
           }
+        },
+        "536": {
+          "json": {
+            "id": 43,
+            "value": [
+              {
+                "name": "Play",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Playing\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Stopped\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Play Video Stream",
+                "type": "play_video_stream",
+                "jsonPayload": "{ \"src\": \"https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875\", \"loop\": \"false\", \"volume\": 1, \"dclCast\": false }"
+              },
+              {
+                "name": "Stop Video Stream",
+                "type": "stop_video_stream",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Plays or Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Toggle\" }",
+                "allowedInBasicView": true
+              }
+            ]
+          }
+        },
+        "537": {
+          "json": {
+            "id": 45,
+            "value": [
+              {
+                "name": "Play",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Playing\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Stopped\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Play Video Stream",
+                "type": "play_video_stream",
+                "jsonPayload": "{ \"src\": \"https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875\", \"loop\": \"false\", \"volume\": 1, \"dclCast\": false }"
+              },
+              {
+                "name": "Stop Video Stream",
+                "type": "stop_video_stream",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Plays or Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Toggle\" }",
+                "allowedInBasicView": true
+              }
+            ]
+          }
+        },
+        "538": {
+          "json": {
+            "id": 47,
+            "value": [
+              {
+                "name": "Play",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Playing\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Stopped\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Play Video Stream",
+                "type": "play_video_stream",
+                "jsonPayload": "{ \"src\": \"https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875\", \"loop\": \"false\", \"volume\": 1, \"dclCast\": false }"
+              },
+              {
+                "name": "Stop Video Stream",
+                "type": "stop_video_stream",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Plays or Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Toggle\" }",
+                "allowedInBasicView": true
+              }
+            ]
+          }
+        },
+        "539": {
+          "json": {
+            "id": 49,
+            "value": [
+              {
+                "name": "Play",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Playing\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Stopped\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Play Video Stream",
+                "type": "play_video_stream",
+                "jsonPayload": "{ \"src\": \"https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875\", \"loop\": \"false\", \"volume\": 1, \"dclCast\": false }"
+              },
+              {
+                "name": "Stop Video Stream",
+                "type": "stop_video_stream",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Plays or Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Toggle\" }",
+                "allowedInBasicView": true
+              }
+            ]
+          }
+        },
+        "540": {
+          "json": {
+            "id": 51,
+            "value": [
+              {
+                "name": "Play",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Playing\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Stopped\" }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Play Video Stream",
+                "type": "play_video_stream",
+                "jsonPayload": "{ \"src\": \"https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875\", \"loop\": \"false\", \"volume\": 1, \"dclCast\": false }"
+              },
+              {
+                "name": "Stop Video Stream",
+                "type": "stop_video_stream",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Plays or Stop",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"Toggle\" }",
+                "allowedInBasicView": true
+              }
+            ]
+          }
         }
       }
     },
@@ -3904,7 +4653,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 42
+            "value": 52
           }
         }
       }
@@ -4399,6 +5148,485 @@
               }
             ]
           }
+        },
+        "536": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 30,
+                    "name": "Stop"
+                  },
+                  {
+                    "id": 43,
+                    "name": "Play"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 44,
+                    "type": "when_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 43,
+                    "name": "Play Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 44,
+                    "type": "when_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 43,
+                    "name": "Stop Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-off"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 44,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 44,
+                    "type": "when_previous_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 43,
+                    "name": "Stop"
+                  }
+                ]
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 44,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 44,
+                    "type": "when_previous_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 43,
+                    "name": "Play"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "537": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 45,
+                    "name": "Play"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 46,
+                    "type": "when_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 45,
+                    "name": "Play Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 46,
+                    "type": "when_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 45,
+                    "name": "Stop Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-off"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 46,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 46,
+                    "type": "when_previous_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 45,
+                    "name": "Stop"
+                  }
+                ]
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 46,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 46,
+                    "type": "when_previous_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 45,
+                    "name": "Play"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "538": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 47,
+                    "name": "Plays or Stop"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 48,
+                    "type": "when_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 47,
+                    "name": "Play Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 48,
+                    "type": "when_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 47,
+                    "name": "Stop Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-off"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 48,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 48,
+                    "type": "when_previous_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 47,
+                    "name": "Stop"
+                  }
+                ]
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 48,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 48,
+                    "type": "when_previous_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 47,
+                    "name": "Play"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "539": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 49,
+                    "name": "Play"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 50,
+                    "type": "when_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 49,
+                    "name": "Play Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 50,
+                    "type": "when_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 49,
+                    "name": "Stop Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-off"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 50,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 50,
+                    "type": "when_previous_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 49,
+                    "name": "Stop"
+                  }
+                ]
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 50,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 50,
+                    "type": "when_previous_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 49,
+                    "name": "Play"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "540": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 51,
+                    "name": "Plays or Stop"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 52,
+                    "type": "when_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 51,
+                    "name": "Play Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 52,
+                    "type": "when_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 51,
+                    "name": "Stop Video Stream"
+                  }
+                ],
+                "basicViewId": "trigger-when-turned-off"
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 52,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 52,
+                    "type": "when_previous_state_is",
+                    "value": "Playing"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 51,
+                    "name": "Stop"
+                  }
+                ]
+              },
+              {
+                "type": "on_state_change",
+                "conditions": [
+                  {
+                    "id": 52,
+                    "type": "when_state_is",
+                    "value": "Toggle"
+                  },
+                  {
+                    "id": 52,
+                    "type": "when_previous_state_is",
+                    "value": "Stopped"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 51,
+                    "name": "Play"
+                  }
+                ]
+              }
+            ]
+          }
         }
       }
     },
@@ -4496,6 +5724,61 @@
             ],
             "defaultValue": "GoingToEnd"
           }
+        },
+        "536": {
+          "json": {
+            "id": 44,
+            "value": [
+              "Playing",
+              "Stopped",
+              "Toggle"
+            ],
+            "defaultValue": "Stopped"
+          }
+        },
+        "537": {
+          "json": {
+            "id": 46,
+            "value": [
+              "Playing",
+              "Stopped",
+              "Toggle"
+            ],
+            "defaultValue": "Stopped"
+          }
+        },
+        "538": {
+          "json": {
+            "id": 48,
+            "value": [
+              "Playing",
+              "Stopped",
+              "Toggle"
+            ],
+            "defaultValue": "Stopped"
+          }
+        },
+        "539": {
+          "json": {
+            "id": 50,
+            "value": [
+              "Playing",
+              "Stopped",
+              "Toggle"
+            ],
+            "defaultValue": "Stopped"
+          }
+        },
+        "540": {
+          "json": {
+            "id": 52,
+            "value": [
+              "Playing",
+              "Stopped",
+              "Toggle"
+            ],
+            "defaultValue": "Stopped"
+          }
         }
       }
     },
@@ -4574,6 +5857,21 @@
           "json": {}
         },
         "535": {
+          "json": {}
+        },
+        "536": {
+          "json": {}
+        },
+        "537": {
+          "json": {}
+        },
+        "538": {
+          "json": {}
+        },
+        "539": {
+          "json": {}
+        },
+        "540": {
           "json": {}
         }
       }
@@ -4923,6 +6221,166 @@
               }
             ],
             "assetId": "1889bcdc-5608-48fa-9158-b0a56f0afa8b"
+          }
+        },
+        "536": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Video Player",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "Video Player",
+                "type": "core::VideoPlayer"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "name": "When Turned On",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "name": "When Turned Off",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-off"
+              }
+            ],
+            "assetId": "dc5ec17b-aa1a-4bd0-bace-7d615d9bdc70"
+          }
+        },
+        "537": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Video Player",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "Video Player",
+                "type": "core::VideoPlayer"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "name": "When Turned On",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "name": "When Turned Off",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-off"
+              }
+            ],
+            "assetId": "dc5ec17b-aa1a-4bd0-bace-7d615d9bdc70"
+          }
+        },
+        "538": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Video Player",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "Video Player",
+                "type": "core::VideoPlayer"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "name": "When Turned On",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "name": "When Turned Off",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-off"
+              }
+            ],
+            "assetId": "dc5ec17b-aa1a-4bd0-bace-7d615d9bdc70"
+          }
+        },
+        "539": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Video Player",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "Video Player",
+                "type": "core::VideoPlayer"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "name": "When Turned On",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "name": "When Turned Off",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-off"
+              }
+            ],
+            "assetId": "dc5ec17b-aa1a-4bd0-bace-7d615d9bdc70"
+          }
+        },
+        "540": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Video Player",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "Video Player",
+                "type": "core::VideoPlayer"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              },
+              {
+                "name": "When Turned On",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-on"
+              },
+              {
+                "name": "When Turned Off",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-turned-off"
+              }
+            ],
+            "assetId": "dc5ec17b-aa1a-4bd0-bace-7d615d9bdc70"
           }
         }
       }
