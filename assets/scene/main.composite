@@ -90,6 +90,237 @@
         "serializationType": "transform"
       },
       "data": {
+        "513": {
+          "json": {
+            "position": {
+              "x": -71.25,
+              "y": 14.5,
+              "z": 89
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0.5,
+              "y": 0,
+              "z": 0,
+              "w": 0.8660253882408142
+            },
+            "parent": 516
+          }
+        },
+        "514": {
+          "json": {
+            "position": {
+              "x": -62,
+              "y": 4.25,
+              "z": 50.75
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 6.123234262925839e-17
+            },
+            "parent": 516
+          }
+        },
+        "515": {
+          "json": {
+            "position": {
+              "x": -76.5,
+              "y": 12.5,
+              "z": -55.25
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 517
+          }
+        },
+        "516": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 0
+          }
+        },
+        "517": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 0
+          }
+        },
+        "518": {
+          "json": {
+            "position": {
+              "x": -87.25,
+              "y": 4.75,
+              "z": -47
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": -0.7071067690849304
+            },
+            "parent": 517
+          }
+        },
+        "519": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 0
+          }
+        },
+        "520": {
+          "json": {
+            "position": {
+              "x": -145.5,
+              "y": 6.5,
+              "z": -62.25
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 519
+          }
+        },
+        "521": {
+          "json": {
+            "position": {
+              "x": -154,
+              "y": 5.75,
+              "z": 54
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 519
+          }
+        },
+        "522": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 0
+          }
+        },
+        "523": {
+          "json": {
+            "position": {
+              "x": -134.0399932861328,
+              "y": 6.360000133514404,
+              "z": 81.30999755859375
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.38308650255203247,
+              "z": 0,
+              "w": -0.9237124919891357
+            },
+            "parent": 522
+          }
+        },
         "524": {
           "json": {
             "position": {
@@ -97,58 +328,79 @@
               "y": 1.25,
               "z": 19
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
             },
+            "parent": 0
+          }
+        },
+        "525": {
+          "json": {
+            "position": {
+              "x": -173.9499969482422,
+              "y": 5.46999979019165,
+              "z": 77.13999938964844
+            },
             "scale": {
               "x": 1,
               "y": 1,
               "z": 1
             },
-            "parent": 0
+            "rotation": {
+              "x": 0,
+              "y": 0.9518889784812927,
+              "z": 0,
+              "w": -0.3064430058002472
+            },
+            "parent": 522
           }
         },
         "526": {
           "json": {
             "position": {
-              "x": -4.590000152587891,
+              "x": -5.380000114440918,
               "y": 3.0999999046325684,
-              "z": 24.309999465942383
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.9063078165054321,
-              "z": 0,
-              "w": 0.4226182699203491
+              "z": 24.100000381469727
             },
             "scale": {
               "x": 1,
               "y": 1,
               "z": 1
             },
+            "rotation": {
+              "x": 0,
+              "y": 0.4226182699203491,
+              "z": 0,
+              "w": -0.9063078165054321
+            },
             "parent": 0
           }
         },
-        "527": {
+        "528": {
           "json": {
             "position": {
-              "x": -70.73680877685547,
-              "y": 5.535443305969238,
-              "z": 96.12918853759766
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
             },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 0
           }
@@ -156,22 +408,22 @@
         "529": {
           "json": {
             "position": {
-              "x": -179.1699981689453,
-              "y": 0,
-              "z": -279.7699890136719
+              "x": -220.0592041015625,
+              "y": 6.105465888977051,
+              "z": -28.6299991607666
+            },
+            "scale": {
+              "x": 1.0000001192092896,
+              "y": 1,
+              "z": 1.0000001192092896
             },
             "rotation": {
               "x": 0,
-              "y": 0,
+              "y": 0.2819436490535736,
               "z": 0,
-              "w": 1
+              "w": 0.959430992603302
             },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "parent": 0
+            "parent": 528
           }
         }
       }
@@ -193,22 +445,64 @@
         "serializationType": "map"
       },
       "data": {
+        "513": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3335
+          }
+        },
+        "514": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3336
+          }
+        },
+        "515": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3337
+          }
+        },
+        "518": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3338
+          }
+        },
+        "520": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3339
+          }
+        },
+        "521": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3340
+          }
+        },
+        "523": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3341
+          }
+        },
+        "525": {
+          "json": {
+            "networkId": 0,
+            "entityId": 3342
+          }
+        },
         "526": {
           "json": {
             "networkId": 0,
             "entityId": 3339
           }
         },
-        "527": {
-          "json": {
-            "networkId": 0,
-            "entityId": 3340
-          }
-        },
         "529": {
           "json": {
             "networkId": 0,
-            "entityId": 3342
+            "entityId": 3343
           }
         }
       }
@@ -222,7 +516,27 @@
         "protocolBuffer": "PBAnimator"
       },
       "data": {
-        "527": {
+        "513": {
+          "json": {
+            "states": []
+          }
+        },
+        "515": {
+          "json": {
+            "states": []
+          }
+        },
+        "520": {
+          "json": {
+            "states": []
+          }
+        },
+        "523": {
+          "json": {
+            "states": []
+          }
+        },
+        "529": {
           "json": {
             "states": []
           }
@@ -238,6 +552,55 @@
         "protocolBuffer": "PBGltfContainer"
       },
       "data": {
+        "513": {
+          "json": {
+            "src": "assets/builder/yellow_button/yellow_fantasy_button.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "514": {
+          "json": {
+            "src": "assets/scene/boat.glb",
+            "visibleMeshesCollisionMask": 2,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "515": {
+          "json": {
+            "src": "assets/builder/yellow_button/yellow_fantasy_button.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "518": {
+          "json": {
+            "src": "assets/scene/boat.glb",
+            "visibleMeshesCollisionMask": 2,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "520": {
+          "json": {
+            "src": "assets/builder/yellow_button/yellow_fantasy_button.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "521": {
+          "json": {
+            "src": "assets/scene/boat.glb",
+            "visibleMeshesCollisionMask": 2,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "523": {
+          "json": {
+            "src": "assets/builder/yellow_button/yellow_fantasy_button.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
         "524": {
           "json": {
             "src": "assets/scene/all_scenes.glb",
@@ -245,90 +608,25 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
-        "526": {
+        "525": {
           "json": {
-            "src": "assets/builder/raft/raft.glb",
+            "src": "assets/scene/boat.glb",
             "visibleMeshesCollisionMask": 2,
             "invisibleMeshesCollisionMask": 2
           }
         },
-        "527": {
+        "526": {
           "json": {
-            "src": "assets/builder/pirate_lever/lever_pirates.glb",
-            "visibleMeshesCollisionMask": 1,
+            "src": "assets/scene/boat.glb",
+            "visibleMeshesCollisionMask": 2,
             "invisibleMeshesCollisionMask": 2
           }
-        }
-      }
-    },
-    {
-      "name": "core::Material",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {},
-        "serializationType": "protocol-buffer",
-        "protocolBuffer": "PBMaterial"
-      },
-      "data": {
+        },
         "529": {
           "json": {
-            "material": {
-              "$case": "pbr",
-              "pbr": {
-                "texture": {
-                  "tex": {
-                    "$case": "videoTexture",
-                    "videoTexture": {
-                      "videoPlayerEntity": 0
-                    }
-                  }
-                },
-                "metallic": 0,
-                "roughness": 1,
-                "specularIntensity": 0
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "name": "core::MeshCollider",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {},
-        "serializationType": "protocol-buffer",
-        "protocolBuffer": "PBMeshCollider"
-      },
-      "data": {
-        "529": {
-          "json": {
-            "collisionMask": 1,
-            "mesh": {
-              "$case": "plane",
-              "plane": {}
-            }
-          }
-        }
-      }
-    },
-    {
-      "name": "core::MeshRenderer",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {},
-        "serializationType": "protocol-buffer",
-        "protocolBuffer": "PBMeshRenderer"
-      },
-      "data": {
-        "529": {
-          "json": {
-            "mesh": {
-              "$case": "plane",
-              "plane": {
-                "uvs": []
-              }
-            }
+            "src": "assets/builder/yellow_button/yellow_fantasy_button.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
           }
         }
       }
@@ -346,9 +644,69 @@
         "serializationType": "map"
       },
       "data": {
+        "513": {
+          "json": {
+            "value": "Pyramid Button"
+          }
+        },
+        "514": {
+          "json": {
+            "value": "Pyramid Raft"
+          }
+        },
+        "515": {
+          "json": {
+            "value": "Snow Button"
+          }
+        },
+        "516": {
+          "json": {
+            "value": "Pyramid"
+          }
+        },
+        "517": {
+          "json": {
+            "value": "Snow"
+          }
+        },
+        "518": {
+          "json": {
+            "value": "Snow Raft"
+          }
+        },
+        "519": {
+          "json": {
+            "value": "Camping"
+          }
+        },
+        "520": {
+          "json": {
+            "value": "Camping Button"
+          }
+        },
+        "521": {
+          "json": {
+            "value": "Camping Raft"
+          }
+        },
+        "522": {
+          "json": {
+            "value": "City"
+          }
+        },
+        "523": {
+          "json": {
+            "value": "City Button"
+          }
+        },
         "524": {
           "json": {
             "value": "all_scenes.glb"
+          }
+        },
+        "525": {
+          "json": {
+            "value": "City Raft"
           }
         },
         "526": {
@@ -356,14 +714,14 @@
             "value": "Start Raft"
           }
         },
-        "527": {
+        "528": {
           "json": {
-            "value": "Pyramid Lever"
+            "value": "China"
           }
         },
         "529": {
           "json": {
-            "value": "Video Player"
+            "value": "China Button"
           }
         }
       }
@@ -377,14 +735,59 @@
         "protocolBuffer": "PBPointerEvents"
       },
       "data": {
-        "527": {
+        "513": {
           "json": {
             "pointerEvents": [
               {
                 "eventType": 1,
                 "eventInfo": {
                   "button": 1,
-                  "hoverText": "Activate / Deactivate",
+                  "hoverText": "Press",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "515": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Press",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "520": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Press",
+                  "maxDistance": 10,
+                  "showFeedback": true
+                }
+              }
+            ]
+          }
+        },
+        "523": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Press",
                   "maxDistance": 10,
                   "showFeedback": true
                 }
@@ -399,7 +802,7 @@
                 "eventType": 1,
                 "eventInfo": {
                   "button": 1,
-                  "hoverText": "Play Video",
+                  "hoverText": "Press",
                   "maxDistance": 10,
                   "showFeedback": true
                 }
@@ -426,6 +829,70 @@
         "serializationType": "map"
       },
       "data": {
+        "513": {
+          "json": {
+            "componentIds": [
+              1042,
+              1020
+            ]
+          }
+        },
+        "514": {
+          "json": {
+            "componentIds": [
+              1102,
+              2709697014
+            ]
+          }
+        },
+        "515": {
+          "json": {
+            "componentIds": [
+              1042,
+              1020
+            ]
+          }
+        },
+        "518": {
+          "json": {
+            "componentIds": [
+              1102,
+              2709697014
+            ]
+          }
+        },
+        "520": {
+          "json": {
+            "componentIds": [
+              1042,
+              1020
+            ]
+          }
+        },
+        "521": {
+          "json": {
+            "componentIds": [
+              1102,
+              2709697014
+            ]
+          }
+        },
+        "523": {
+          "json": {
+            "componentIds": [
+              1042,
+              1020
+            ]
+          }
+        },
+        "525": {
+          "json": {
+            "componentIds": [
+              1102,
+              2709697014
+            ]
+          }
+        },
         "526": {
           "json": {
             "componentIds": [
@@ -434,19 +901,11 @@
             ]
           }
         },
-        "527": {
-          "json": {
-            "componentIds": [
-              1042,
-              1020,
-              2709697014
-            ]
-          }
-        },
         "529": {
           "json": {
             "componentIds": [
-              1043
+              1042,
+              1020
             ]
           }
         }
@@ -461,6 +920,94 @@
         "protocolBuffer": "PBTween"
       },
       "data": {
+        "514": {
+          "json": {
+            "duration": 8000,
+            "easingFunction": 0,
+            "mode": {
+              "$case": "move",
+              "move": {
+                "start": {
+                  "x": -62,
+                  "y": 4.25,
+                  "z": 50.75
+                },
+                "end": {
+                  "x": -62,
+                  "y": 4.25,
+                  "z": -30.399999618530273
+                }
+              }
+            },
+            "playing": false
+          }
+        },
+        "518": {
+          "json": {
+            "duration": 8000,
+            "easingFunction": 0,
+            "mode": {
+              "$case": "move",
+              "move": {
+                "start": {
+                  "x": -87.25,
+                  "y": 4.75,
+                  "z": -47
+                },
+                "end": {
+                  "x": -130.5,
+                  "y": 4.75,
+                  "z": -47
+                }
+              }
+            },
+            "playing": false
+          }
+        },
+        "521": {
+          "json": {
+            "duration": 8000,
+            "easingFunction": 0,
+            "mode": {
+              "$case": "move",
+              "move": {
+                "start": {
+                  "x": -154,
+                  "y": 5.75,
+                  "z": -35
+                },
+                "end": {
+                  "x": -154,
+                  "y": 5.75,
+                  "z": 54
+                }
+              }
+            },
+            "playing": false
+          }
+        },
+        "525": {
+          "json": {
+            "duration": 8000,
+            "easingFunction": 0,
+            "mode": {
+              "$case": "move",
+              "move": {
+                "start": {
+                  "x": -173.9499969482422,
+                  "y": 5.46999979019165,
+                  "z": 77.13999938964844
+                },
+                "end": {
+                  "x": -229.49000549316406,
+                  "y": 5.46999979019165,
+                  "z": 5.889999866485596
+                }
+              }
+            },
+            "playing": false
+          }
+        },
         "526": {
           "json": {
             "duration": 8000,
@@ -469,14 +1016,14 @@
               "$case": "move",
               "move": {
                 "start": {
-                  "x": -4.590000152587891,
+                  "x": -5.380000114440918,
                   "y": 3.0999999046325684,
-                  "z": 24.309999465942383
+                  "z": 24.100000381469727
                 },
                 "end": {
-                  "x": -29,
+                  "x": -37.91999816894531,
                   "y": 3.0999999046325684,
-                  "z": 42.869998931884766
+                  "z": 51.40999984741211
                 }
               }
             },
@@ -494,28 +1041,34 @@
         "protocolBuffer": "PBTweenSequence"
       },
       "data": {
-        "526": {
+        "514": {
           "json": {
             "sequence": [],
             "loop": 1
           }
-        }
-      }
-    },
-    {
-      "name": "core::VideoPlayer",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {},
-        "serializationType": "protocol-buffer",
-        "protocolBuffer": "PBVideoPlayer"
-      },
-      "data": {
-        "529": {
+        },
+        "518": {
           "json": {
-            "src": "https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875",
-            "playing": true,
-            "volume": 1
+            "sequence": [],
+            "loop": 1
+          }
+        },
+        "521": {
+          "json": {
+            "sequence": [],
+            "loop": 1
+          }
+        },
+        "525": {
+          "json": {
+            "sequence": [],
+            "loop": 1
+          }
+        },
+        "526": {
+          "json": {
+            "sequence": [],
+            "loop": 1
           }
         }
       }
@@ -533,7 +1086,7 @@
         "serializationType": "map"
       },
       "data": {
-        "526": {
+        "524": {
           "json": {
             "gizmo": 0
           }
@@ -823,15 +1376,13 @@
           "json": {
             "name": "Parcial 2 Metaverso",
             "description": "Empty Scene Template",
+            "thumbnail": "assets/images/autogenerated-thumbnail.png",
             "ageRating": "T",
             "categories": [],
             "author": "SDK",
+            "email": "",
             "tags": [],
             "layout": {
-              "base": {
-                "x": 20,
-                "y": 8
-              },
               "parcels": [
                 {
                   "x": 0,
@@ -2397,8 +2948,14 @@
                   "x": 22,
                   "y": 0
                 }
-              ]
+              ],
+              "base": {
+                "x": 20,
+                "y": 8
+              }
             },
+            "silenceVoiceChat": false,
+            "disablePortableExperiences": false,
             "spawnPoints": [
               {
                 "name": "Spawn Point 1",
@@ -2407,8 +2964,8 @@
                   "x": {
                     "$case": "range",
                     "value": [
-                      0,
-                      3
+                      1,
+                      4
                     ]
                   },
                   "y": {
@@ -2485,8 +3042,11 @@
                 "children": [
                   524,
                   526,
-                  527,
-                  529
+                  516,
+                  517,
+                  519,
+                  522,
+                  528
                 ]
               },
               {
@@ -2506,8 +3066,75 @@
                 "children": []
               },
               {
-                "entity": 527,
+                "entity": 513,
                 "children": []
+              },
+              {
+                "entity": 514,
+                "children": []
+              },
+              {
+                "entity": 515,
+                "children": []
+              },
+              {
+                "entity": 516,
+                "open": true,
+                "children": [
+                  513,
+                  514
+                ]
+              },
+              {
+                "entity": 517,
+                "open": true,
+                "children": [
+                  515,
+                  518
+                ]
+              },
+              {
+                "entity": 518,
+                "children": []
+              },
+              {
+                "entity": 519,
+                "open": true,
+                "children": [
+                  520,
+                  521
+                ]
+              },
+              {
+                "entity": 520,
+                "children": []
+              },
+              {
+                "entity": 521,
+                "children": []
+              },
+              {
+                "entity": 522,
+                "open": true,
+                "children": [
+                  523,
+                  525
+                ]
+              },
+              {
+                "entity": 523,
+                "children": []
+              },
+              {
+                "entity": 525,
+                "children": []
+              },
+              {
+                "entity": 528,
+                "open": true,
+                "children": [
+                  529
+                ]
               },
               {
                 "entity": 529,
@@ -2784,6 +3411,225 @@
         "serializationType": "map"
       },
       "data": {
+        "513": {
+          "json": {
+            "id": 30,
+            "value": [
+              {
+                "name": "Play Activate Animation",
+                "type": "play_animation",
+                "jsonPayload": "{ \"animation\": \"trigger\" }"
+              },
+              {
+                "name": "Play Sound",
+                "type": "play_sound",
+                "jsonPayload": "{\"src\":\"assets/builder/yellow_button/sound.mp3\"}"
+              }
+            ]
+          }
+        },
+        "514": {
+          "json": {
+            "id": 31,
+            "value": [
+              {
+                "name": "Go to Start",
+                "type": "batch",
+                "jsonPayload": "{ \"actions\": [\"Going to Start\", \"Tween to Start\"] }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Go to End",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Tween to End\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Going to Start",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToStart\" }"
+              },
+              {
+                "name": "Going to End",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToEnd\" }"
+              },
+              {
+                "name": "Tween to Start",
+                "type": "start_tween",
+                "jsonPayload": "{\"type\":\"move_item\",\"end\":{\"x\":-62,\"y\":4.25,\"z\":50.75},\"relative\":true,\"interpolationType\":\"linear\",\"duration\":\"0.25\"}"
+              },
+              {
+                "name": "Tween to End",
+                "type": "start_tween",
+                "jsonPayload": "{\"type\":\"move_item\",\"end\":{\"x\":-62,\"y\":4.25,\"z\":50.75},\"relative\":true,\"interpolationType\":\"linear\",\"duration\":\"0.25\"}"
+              }
+            ]
+          }
+        },
+        "515": {
+          "json": {
+            "id": 33,
+            "value": [
+              {
+                "name": "Play Activate Animation",
+                "type": "play_animation",
+                "jsonPayload": "{ \"animation\": \"trigger\" }"
+              },
+              {
+                "name": "Play Sound",
+                "type": "play_sound",
+                "jsonPayload": "{\"src\":\"assets/builder/yellow_button/sound.mp3\"}"
+              }
+            ]
+          }
+        },
+        "518": {
+          "json": {
+            "id": 34,
+            "value": [
+              {
+                "name": "Go to Start",
+                "type": "batch",
+                "jsonPayload": "{ \"actions\": [\"Going to Start\", \"Tween to Start\"] }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Go to End",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Tween to End\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Going to Start",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToStart\" }"
+              },
+              {
+                "name": "Going to End",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToEnd\" }"
+              },
+              {
+                "name": "Tween to Start",
+                "type": "start_tween",
+                "jsonPayload": "{\"type\":\"move_item\",\"end\":{\"x\":-10,\"y\":0,\"z\":0},\"relative\":true,\"interpolationType\":\"linear\",\"duration\":5}"
+              },
+              {
+                "name": "Tween to End",
+                "type": "start_tween",
+                "jsonPayload": "{\"type\":\"move_item\",\"end\":{\"x\":-87.25,\"y\":4.75,\"z\":-47},\"relative\":true,\"interpolationType\":\"linear\",\"duration\":\"0.25\"}"
+              }
+            ]
+          }
+        },
+        "520": {
+          "json": {
+            "id": 36,
+            "value": [
+              {
+                "name": "Play Activate Animation",
+                "type": "play_animation",
+                "jsonPayload": "{ \"animation\": \"trigger\" }"
+              },
+              {
+                "name": "Play Sound",
+                "type": "play_sound",
+                "jsonPayload": "{\"src\":\"assets/builder/yellow_button/sound.mp3\"}"
+              }
+            ]
+          }
+        },
+        "521": {
+          "json": {
+            "id": 37,
+            "value": [
+              {
+                "name": "Go to Start",
+                "type": "batch",
+                "jsonPayload": "{ \"actions\": [\"Going to Start\", \"Tween to Start\"] }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Go to End",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Tween to End\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Going to Start",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToStart\" }"
+              },
+              {
+                "name": "Going to End",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToEnd\" }"
+              },
+              {
+                "name": "Tween to End",
+                "type": "start_tween",
+                "jsonPayload": "{\"type\":\"move_item\",\"end\":{\"x\":-154,\"y\":5.75,\"z\":54},\"relative\":true,\"interpolationType\":\"linear\",\"duration\":\"0.25\"}"
+              }
+            ]
+          }
+        },
+        "523": {
+          "json": {
+            "id": 39,
+            "value": [
+              {
+                "name": "Play Activate Animation",
+                "type": "play_animation",
+                "jsonPayload": "{ \"animation\": \"trigger\" }"
+              },
+              {
+                "name": "Play Sound",
+                "type": "play_sound",
+                "jsonPayload": "{\"src\":\"assets/builder/yellow_button/sound.mp3\"}"
+              }
+            ]
+          }
+        },
+        "525": {
+          "json": {
+            "id": 40,
+            "value": [
+              {
+                "name": "Go to Start",
+                "type": "batch",
+                "jsonPayload": "{ \"actions\": [\"Going to Start\", \"Tween to Start\"] }",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Go to End",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Tween to End\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Going to Start",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToStart\" }"
+              },
+              {
+                "name": "Going to End",
+                "type": "set_state",
+                "jsonPayload": "{ \"state\": \"GoingToEnd\" }"
+              },
+              {
+                "name": "Tween to Start",
+                "type": "start_tween",
+                "jsonPayload": "{\"type\":\"move_item\",\"end\":{\"x\":-10,\"y\":0,\"z\":0},\"relative\":true,\"interpolationType\":\"linear\",\"duration\":5}"
+              },
+              {
+                "name": "Tween to End",
+                "type": "start_tween",
+                "jsonPayload": "{\"type\":\"move_item\",\"end\":{\"x\":-173.95,\"y\":5.47,\"z\":75},\"relative\":true,\"interpolationType\":\"linear\",\"duration\":\"0.25\"}"
+              }
+            ]
+          }
+        },
         "526": {
           "json": {
             "id": 11,
@@ -2823,71 +3669,19 @@
             ]
           }
         },
-        "527": {
+        "529": {
           "json": {
-            "id": 13,
+            "id": 42,
             "value": [
               {
-                "name": "Activate",
-                "type": "set_state",
-                "jsonPayload": "{ \"state\": \"Activated\" }",
-                "allowedInBasicView": true
-              },
-              {
-                "name": "Deactivate",
-                "type": "set_state",
-                "jsonPayload": "{ \"state\": \"Deactivated\" }",
-                "allowedInBasicView": true
+                "name": "Play Activate Animation",
+                "type": "play_animation",
+                "jsonPayload": "{ \"animation\": \"trigger\" }"
               },
               {
                 "name": "Play Sound",
                 "type": "play_sound",
-                "jsonPayload": "{\"src\":\"assets/builder/pirate_lever/sound.mp3\"}"
-              },
-              {
-                "name": "Play Activate Animation",
-                "type": "play_animation",
-                "jsonPayload": "{ \"animation\": \"activate\" }"
-              },
-              {
-                "name": "Play Deactivate Animation",
-                "type": "play_animation",
-                "jsonPayload": "{ \"animation\": \"deactivate\" }"
-              }
-            ]
-          }
-        },
-        "529": {
-          "json": {
-            "id": 15,
-            "value": [
-              {
-                "name": "Play",
-                "type": "set_state",
-                "jsonPayload": "{ \"state\": \"Playing\" }",
-                "allowedInBasicView": true
-              },
-              {
-                "name": "Stop",
-                "type": "set_state",
-                "jsonPayload": "{ \"state\": \"Stopped\" }",
-                "allowedInBasicView": true
-              },
-              {
-                "name": "Play Video Stream",
-                "type": "play_video_stream",
-                "jsonPayload": "{ \"src\": \"https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875\", \"loop\": \"false\", \"volume\": 1, \"dclCast\": false }"
-              },
-              {
-                "name": "Stop Video Stream",
-                "type": "stop_video_stream",
-                "jsonPayload": "{}"
-              },
-              {
-                "name": "Plays or Stop",
-                "type": "set_state",
-                "jsonPayload": "{ \"state\": \"Toggle\" }",
-                "allowedInBasicView": true
+                "jsonPayload": "{\"src\":\"assets/builder/yellow_button/sound.mp3\"}"
               }
             ]
           }
@@ -2914,7 +3708,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 16
+            "value": 42
           }
         }
       }
@@ -3089,6 +3883,266 @@
         "serializationType": "map"
       },
       "data": {
+        "513": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 30,
+                    "name": "Play Activate Animation"
+                  },
+                  {
+                    "id": 30,
+                    "name": "Play Sound"
+                  },
+                  {
+                    "id": 31,
+                    "name": "Go to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              }
+            ]
+          }
+        },
+        "514": {
+          "json": {
+            "value": [
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 32,
+                    "type": "when_state_is",
+                    "value": "GoingToEnd"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 31,
+                    "name": "Going to Start"
+                  }
+                ],
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 32,
+                    "type": "when_state_is",
+                    "value": "GoingToStart"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 31,
+                    "name": "Going to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ]
+          }
+        },
+        "515": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 33,
+                    "name": "Play Activate Animation"
+                  },
+                  {
+                    "id": 33,
+                    "name": "Play Sound"
+                  },
+                  {
+                    "id": 34,
+                    "name": "Tween to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              }
+            ]
+          }
+        },
+        "518": {
+          "json": {
+            "value": [
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 35,
+                    "type": "when_state_is",
+                    "value": "GoingToEnd"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 34,
+                    "name": "Going to Start"
+                  }
+                ],
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 35,
+                    "type": "when_state_is",
+                    "value": "GoingToStart"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 34,
+                    "name": "Going to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ]
+          }
+        },
+        "520": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 36,
+                    "name": "Play Activate Animation"
+                  },
+                  {
+                    "id": 36,
+                    "name": "Play Sound"
+                  },
+                  {
+                    "id": 37,
+                    "name": "Go to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              }
+            ]
+          }
+        },
+        "521": {
+          "json": {
+            "value": [
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 38,
+                    "type": "when_state_is",
+                    "value": "GoingToEnd"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 37,
+                    "name": "Going to Start"
+                  }
+                ],
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 38,
+                    "type": "when_state_is",
+                    "value": "GoingToStart"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 37,
+                    "name": "Going to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ]
+          }
+        },
+        "523": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 39,
+                    "name": "Play Activate Animation"
+                  },
+                  {
+                    "id": 39,
+                    "name": "Play Sound"
+                  },
+                  {
+                    "id": 40,
+                    "name": "Go to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-clicked"
+              }
+            ]
+          }
+        },
+        "525": {
+          "json": {
+            "value": [
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 41,
+                    "type": "when_state_is",
+                    "value": "GoingToEnd"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 40,
+                    "name": "Going to Start"
+                  }
+                ],
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "type": "on_tween_end",
+                "conditions": [
+                  {
+                    "id": 41,
+                    "type": "when_state_is",
+                    "value": "GoingToStart"
+                  }
+                ],
+                "actions": [
+                  {
+                    "id": 40,
+                    "name": "Going to End"
+                  }
+                ],
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ]
+          }
+        },
         "526": {
           "json": {
             "value": [
@@ -3129,90 +4183,6 @@
             ]
           }
         },
-        "527": {
-          "json": {
-            "value": [
-              {
-                "type": "on_input_action",
-                "conditions": [
-                  {
-                    "id": 14,
-                    "type": "when_state_is",
-                    "value": "Deactivated"
-                  }
-                ],
-                "actions": [
-                  {
-                    "id": 13,
-                    "name": "Activate"
-                  }
-                ]
-              },
-              {
-                "type": "on_input_action",
-                "conditions": [
-                  {
-                    "id": 14,
-                    "type": "when_state_is",
-                    "value": "Activated"
-                  }
-                ],
-                "actions": [
-                  {
-                    "id": 13,
-                    "name": "Deactivate"
-                  }
-                ]
-              },
-              {
-                "type": "on_state_change",
-                "conditions": [
-                  {
-                    "id": 14,
-                    "type": "when_state_is",
-                    "value": "Activated"
-                  }
-                ],
-                "actions": [
-                  {
-                    "id": 13,
-                    "name": "Play Activate Animation"
-                  },
-                  {
-                    "id": 13,
-                    "name": "Play Sound"
-                  },
-                  {
-                    "id": 15,
-                    "name": "Play"
-                  }
-                ],
-                "basicViewId": "trigger-when-activated"
-              },
-              {
-                "type": "on_state_change",
-                "conditions": [
-                  {
-                    "id": 14,
-                    "type": "when_state_is",
-                    "value": "Deactivated"
-                  }
-                ],
-                "actions": [
-                  {
-                    "id": 13,
-                    "name": "Play Deactivate Animation"
-                  },
-                  {
-                    "id": 13,
-                    "name": "Play Sound"
-                  }
-                ],
-                "basicViewId": "trigger-when-deactivated"
-              }
-            ]
-          }
-        },
         "529": {
           "json": {
             "value": [
@@ -3221,89 +4191,15 @@
                 "conditions": [],
                 "actions": [
                   {
-                    "id": 15,
-                    "name": "Plays or Stop"
+                    "id": 42,
+                    "name": "Play Activate Animation"
+                  },
+                  {
+                    "id": 42,
+                    "name": "Play Sound"
                   }
                 ],
                 "basicViewId": "trigger-when-clicked"
-              },
-              {
-                "type": "on_state_change",
-                "conditions": [
-                  {
-                    "id": 16,
-                    "type": "when_state_is",
-                    "value": "Playing"
-                  }
-                ],
-                "actions": [
-                  {
-                    "id": 15,
-                    "name": "Play Video Stream"
-                  }
-                ],
-                "basicViewId": "trigger-when-turned-on"
-              },
-              {
-                "type": "on_state_change",
-                "conditions": [
-                  {
-                    "id": 16,
-                    "type": "when_state_is",
-                    "value": "Stopped"
-                  }
-                ],
-                "actions": [
-                  {
-                    "id": 15,
-                    "name": "Stop Video Stream"
-                  }
-                ],
-                "basicViewId": "trigger-when-turned-off"
-              },
-              {
-                "type": "on_state_change",
-                "conditions": [
-                  {
-                    "id": 16,
-                    "type": "when_state_is",
-                    "value": "Toggle"
-                  },
-                  {
-                    "id": 16,
-                    "type": "when_previous_state_is",
-                    "value": "Playing"
-                  }
-                ],
-                "operation": "and",
-                "actions": [
-                  {
-                    "id": 15,
-                    "name": "Stop"
-                  }
-                ]
-              },
-              {
-                "type": "on_state_change",
-                "conditions": [
-                  {
-                    "id": 16,
-                    "type": "when_state_is",
-                    "value": "Toggle"
-                  },
-                  {
-                    "id": 16,
-                    "type": "when_previous_state_is",
-                    "value": "Stopped"
-                  }
-                ],
-                "operation": "and",
-                "actions": [
-                  {
-                    "id": 15,
-                    "name": "Play"
-                  }
-                ]
               }
             ]
           }
@@ -3355,6 +4251,46 @@
         "serializationType": "map"
       },
       "data": {
+        "514": {
+          "json": {
+            "id": 32,
+            "value": [
+              "GoingToEnd",
+              "GoingToStart"
+            ],
+            "defaultValue": "GoingToEnd"
+          }
+        },
+        "518": {
+          "json": {
+            "id": 35,
+            "value": [
+              "GoingToEnd",
+              "GoingToStart"
+            ],
+            "defaultValue": "GoingToEnd"
+          }
+        },
+        "521": {
+          "json": {
+            "id": 38,
+            "value": [
+              "GoingToEnd",
+              "GoingToStart"
+            ],
+            "defaultValue": "GoingToEnd"
+          }
+        },
+        "525": {
+          "json": {
+            "id": 41,
+            "value": [
+              "GoingToEnd",
+              "GoingToStart"
+            ],
+            "defaultValue": "GoingToEnd"
+          }
+        },
         "526": {
           "json": {
             "id": 12,
@@ -3363,27 +4299,6 @@
               "GoingToStart"
             ],
             "defaultValue": "GoingToEnd"
-          }
-        },
-        "527": {
-          "json": {
-            "id": 14,
-            "value": [
-              "Activated",
-              "Deactivated"
-            ],
-            "defaultValue": "Deactivated"
-          }
-        },
-        "529": {
-          "json": {
-            "id": 16,
-            "value": [
-              "Playing",
-              "Stopped",
-              "Toggle"
-            ],
-            "defaultValue": "Stopped"
           }
         }
       }
@@ -3405,13 +4320,49 @@
         "serializationType": "map"
       },
       "data": {
+        "513": {
+          "json": {}
+        },
+        "514": {
+          "json": {}
+        },
+        "515": {
+          "json": {}
+        },
+        "516": {
+          "json": {}
+        },
+        "517": {
+          "json": {}
+        },
+        "518": {
+          "json": {}
+        },
+        "519": {
+          "json": {}
+        },
+        "520": {
+          "json": {}
+        },
+        "521": {
+          "json": {}
+        },
+        "522": {
+          "json": {}
+        },
+        "523": {
+          "json": {}
+        },
         "524": {
+          "json": {}
+        },
+        "525": {
           "json": {}
         },
         "526": {
           "json": {}
         },
-        "527": {
+        "528": {
           "json": {}
         },
         "529": {
@@ -3561,6 +4512,170 @@
         "serializationType": "map"
       },
       "data": {
+        "513": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Button",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              }
+            ],
+            "assetId": "1889bcdc-5608-48fa-9158-b0a56f0afa8b"
+          }
+        },
+        "514": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Horizontal Platform",
+            "fields": [
+              {
+                "name": "Tween",
+                "type": "core::Tween"
+              },
+              {
+                "name": "When End Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "name": "When Start Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ],
+            "assetId": "f5c1fc52-2cd3-40b2-862a-c6ceaf66aa1e"
+          }
+        },
+        "515": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Button",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              }
+            ],
+            "assetId": "1889bcdc-5608-48fa-9158-b0a56f0afa8b"
+          }
+        },
+        "518": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Horizontal Platform",
+            "fields": [
+              {
+                "name": "Tween",
+                "type": "core::Tween"
+              },
+              {
+                "name": "When End Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "name": "When Start Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ],
+            "assetId": "f5c1fc52-2cd3-40b2-862a-c6ceaf66aa1e"
+          }
+        },
+        "520": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Button",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              }
+            ],
+            "assetId": "1889bcdc-5608-48fa-9158-b0a56f0afa8b"
+          }
+        },
+        "521": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Horizontal Platform",
+            "fields": [
+              {
+                "name": "Tween",
+                "type": "core::Tween"
+              },
+              {
+                "name": "When End Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "name": "When Start Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ],
+            "assetId": "f5c1fc52-2cd3-40b2-862a-c6ceaf66aa1e"
+          }
+        },
+        "523": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Button",
+            "fields": [
+              {
+                "name": "Hover Text",
+                "type": "core::PointerEvents"
+              },
+              {
+                "name": "When Clicked",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-clicked"
+              }
+            ],
+            "assetId": "1889bcdc-5608-48fa-9158-b0a56f0afa8b"
+          }
+        },
+        "525": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Horizontal Platform",
+            "fields": [
+              {
+                "name": "Tween",
+                "type": "core::Tween"
+              },
+              {
+                "name": "When End Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-end-reached"
+              },
+              {
+                "name": "When Start Reached",
+                "type": "asset-packs::Triggers",
+                "basicViewId": "trigger-when-start-reached"
+              }
+            ],
+            "assetId": "f5c1fc52-2cd3-40b2-862a-c6ceaf66aa1e"
+          }
+        },
         "526": {
           "json": {
             "isBasicViewEnabled": false,
@@ -3584,59 +4699,22 @@
             "assetId": "f5c1fc52-2cd3-40b2-862a-c6ceaf66aa1e"
           }
         },
-        "527": {
-          "json": {
-            "isBasicViewEnabled": true,
-            "componentName": "Lever",
-            "fields": [
-              {
-                "name": "Hover Text",
-                "type": "core::PointerEvents"
-              },
-              {
-                "name": "When Activated",
-                "type": "asset-packs::Triggers",
-                "basicViewId": "trigger-when-activated"
-              },
-              {
-                "name": "When Deactivated",
-                "type": "asset-packs::Triggers",
-                "basicViewId": "trigger-when-deactivated"
-              }
-            ],
-            "assetId": "37e449e5-9298-41b6-8c9a-a6d12b45bdd2"
-          }
-        },
         "529": {
           "json": {
             "isBasicViewEnabled": true,
-            "componentName": "Video Player",
+            "componentName": "Button",
             "fields": [
               {
                 "name": "Hover Text",
                 "type": "core::PointerEvents"
-              },
-              {
-                "name": "Video Player",
-                "type": "core::VideoPlayer"
               },
               {
                 "name": "When Clicked",
                 "type": "asset-packs::Triggers",
                 "basicViewId": "trigger-when-clicked"
-              },
-              {
-                "name": "When Turned On",
-                "type": "asset-packs::Triggers",
-                "basicViewId": "trigger-when-turned-on"
-              },
-              {
-                "name": "When Turned Off",
-                "type": "asset-packs::Triggers",
-                "basicViewId": "trigger-when-turned-off"
               }
             ],
-            "assetId": "dc5ec17b-aa1a-4bd0-bace-7d615d9bdc70"
+            "assetId": "1889bcdc-5608-48fa-9158-b0a56f0afa8b"
           }
         }
       }
